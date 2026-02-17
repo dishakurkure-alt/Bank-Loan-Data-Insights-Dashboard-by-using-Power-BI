@@ -1,10 +1,10 @@
-📊 Bank Loan Data Insights Dashboard
+**📊 Bank Loan Data Insights Dashboard**
 
 An interactive Power BI dashboard designed to analyze bank loan data and deliver actionable insights on portfolio performance, credit risk, and borrower behavior.
 
 This project transforms raw financial data into meaningful KPIs and visual analytics to support data-driven lending decisions.
 
-🚀 Project Objectives
+**🚀 Project Objectives**
 
 Evaluate overall loan portfolio health
 
@@ -16,7 +16,25 @@ Monitor funding vs repayment performance
 
 Segment borrowers by income, employment, and loan purpose
 
-📈 Key Insights Delivered
+**📊 Bank Loan Data Insights Dashboard**
+
+An interactive Power BI dashboard designed to analyze bank loan data and deliver actionable insights on portfolio performance, credit risk, and borrower behavior.
+
+This project transforms raw financial data into meaningful KPIs and visual analytics to support data-driven lending decisions.
+
+**🚀 Project Objectives**
+
+Evaluate overall loan portfolio health
+
+Identify good vs bad loan patterns
+
+Analyze default risk indicators
+
+Monitor funding vs repayment performance
+
+Segment borrowers by income, employment, and loan purpose
+
+**📈 Key Insights Delivered**
 
 ✔ Total Loan Applications & Funded Amount
 ✔ Good Loan vs Bad Loan Percentage
@@ -25,8 +43,8 @@ Segment borrowers by income, employment, and loan purpose
 ✔ Interest Rate & DTI Analysis
 ✔ Regional & Purpose-Based Segmentation
 
-🛠 Tools & Skills Used
-
+**🛠 Tools & Skills Used
+**
 Power BI
 
 DAX (Data Analysis Expressions)
@@ -37,7 +55,7 @@ Power Query (Data Cleaning & Transformation)
 
 Interactive Dashboard Design
 
-💡 Business Value
+**💡 Business Value**
 
 This dashboard helps financial institutions:
 
@@ -47,8 +65,5 @@ Monitor loan portfolio performance
 
 Identify high-risk borrower segments
 
-Support strategic lending decision.
+Support strategic lending decisions
 
-If you want, I can also make a more technical (Data Analyst focused) or more finance-focused executive version.
-
-Do you like this personality?
