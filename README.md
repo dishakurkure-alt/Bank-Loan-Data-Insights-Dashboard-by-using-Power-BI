@@ -25,8 +25,8 @@ Segment borrowers by income, employment, and loan purpose
 ✔ Interest Rate & DTI Analysis
 ✔ Regional & Purpose-Based Segmentation
 
-**🛠 Tools & Skills Used
-**
+**🛠 Tools & Skills Used**
+
 Power BI
 
 DAX (Data Analysis Expressions)
